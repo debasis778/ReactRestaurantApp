@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactRestaurantApp/static/css/main.645b43b7.chunk.css",
+    "main.js": "/ReactRestaurantApp/static/js/main.a9689566.chunk.js",
+    "main.js.map": "/ReactRestaurantApp/static/js/main.a9689566.chunk.js.map",
+    "runtime-main.js": "/ReactRestaurantApp/static/js/runtime-main.8822195c.js",
+    "runtime-main.js.map": "/ReactRestaurantApp/static/js/runtime-main.8822195c.js.map",
+    "static/css/2.89241c46.chunk.css": "/ReactRestaurantApp/static/css/2.89241c46.chunk.css",
+    "static/js/2.64896932.chunk.js": "/ReactRestaurantApp/static/js/2.64896932.chunk.js",
+    "static/js/2.64896932.chunk.js.map": "/ReactRestaurantApp/static/js/2.64896932.chunk.js.map",
+    "index.html": "/ReactRestaurantApp/index.html",
+    "precache-manifest.d52001689c20d741aa9bc212c8c11d93.js": "/ReactRestaurantApp/precache-manifest.d52001689c20d741aa9bc212c8c11d93.js",
+    "service-worker.js": "/ReactRestaurantApp/service-worker.js",
+    "static/css/2.89241c46.chunk.css.map": "/ReactRestaurantApp/static/css/2.89241c46.chunk.css.map",
+    "static/css/main.645b43b7.chunk.css.map": "/ReactRestaurantApp/static/css/main.645b43b7.chunk.css.map",
+    "static/media/font-awesome.min.css": "/ReactRestaurantApp/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8822195c.js",
+    "static/css/2.89241c46.chunk.css",
+    "static/js/2.64896932.chunk.js",
+    "static/css/main.645b43b7.chunk.css",
+    "static/js/main.a9689566.chunk.js"
+  ]
+}
